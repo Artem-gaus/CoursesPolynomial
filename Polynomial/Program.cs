@@ -10,6 +10,7 @@ namespace Polynomial
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
